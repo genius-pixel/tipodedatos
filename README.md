@@ -1,0 +1,2 @@
+# tipodedatos
+practicar sobre javascript
